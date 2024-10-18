@@ -14,7 +14,6 @@ function ofensiva(){
         
     }
     
-
 }
 console.log(process);
 ofensiva();
